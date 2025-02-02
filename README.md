@@ -1,2 +1,3 @@
 # NSI.AI
-Website
+Project Title: NSI.AI Website (V0)
+Description: Website
